@@ -13,7 +13,7 @@ Host bx11
     IdentityFile ~/.ssh/id_rsa
 ```
 
-Ersetzen Sie `backup-server.example.com` durch die tatsächliche Adresse Ihres Backup-Servers und passen Sie gegebenenfalls andere Details an.
+Ersetzen Sie `servername.example.com` durch die tatsächliche Adresse Ihres Backup-Servers und passen Sie gegebenenfalls andere Details an.
 
 ## Backup Skript
 
