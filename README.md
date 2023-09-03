@@ -9,6 +9,7 @@ Um eine reibungslose Kommunikation mit Ihrem Backup-Server zu gewährleisten, so
 ```
 Host bx11
     HostName servername.example.com
+    Port 22
     User username
     IdentityFile ~/.ssh/id_rsa
 ```
