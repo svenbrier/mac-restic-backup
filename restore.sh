@@ -6,7 +6,6 @@ BACKUP_NAME=intenso-m2-ssd
 
 # Storagebox
 STORAGEBOX=bx11
-SFTP_PORT=23
 
 # Restic
 RESTIC_USER=sven
